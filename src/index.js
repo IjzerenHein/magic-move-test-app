@@ -6,3 +6,5 @@ AppRegistry.registerComponent("App", () => App);
 AppRegistry.runApplication("App", {
   rootTag: document.getElementById("root")
 });
+
+// Test
